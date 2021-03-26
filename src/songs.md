@@ -3,3 +3,6 @@
 
 #Tuesday
 - Tuesday's gone
+
+#Wednesday
+- We are the champions
